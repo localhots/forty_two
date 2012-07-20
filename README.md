@@ -1,4 +1,4 @@
-forty_two
+42
 =========
 
 An attempt to describe universe with ruby
